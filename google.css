@@ -1,0 +1,169 @@
+.header{
+    width: 1480px;
+    height: 70px;
+}
+
+.headerul{
+    list-style-type: none;
+}
+
+.headerul a{
+    display: block;
+    text-decoration: none;
+    float:right;
+    padding: 5px 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.headerul a img.Pf{
+    width: 37px;
+    height: 33px;
+    margin-right: 15px;
+    margin-top: 1px;
+    border-radius: 50%;
+}
+
+.headerul a img.gu{
+    width: 25px;
+    height: 20px;
+    margin-right: 25px;
+    margin-top: 7px;
+}
+
+.headerul a.grs{
+    margin-right: 37px;
+    margin-top: 7px;
+}
+
+.headerul a.gma{
+    margin-right: 17px;
+    margin-top: 7px;
+}
+
+.article{
+    width: 1450px;
+    height: 500px;
+    position: relative;
+    margin: auto;
+}
+
+.article img.googlelogo{
+    width:300px;
+    height: 100px;
+    position: relative;
+    margin-top: 70px;
+    margin-left: 570px;
+}
+
+#armkt{
+    width: 550px;
+    height: 40px;
+    position: relative;
+    margin-left: 430px;
+    margin-top: 10px;
+    border-radius: 100px;
+    border: solid 1px rgb(191, 185, 160);
+    font-size: 17px;
+    outline: none;
+}
+
+#arama{
+    position: relative;
+    right: 540px;
+}
+
+#klavye{
+    position: relative;
+    right: 100px;
+    width: 20px;
+}
+
+#mic{
+    width: 27px;
+    position: relative;
+    right: 90px;
+    top: 8px;
+}
+
+#btnara{
+    height: 40px;
+    width: 140px;
+    position: relative;
+    top: 70px;
+    right: 520px;
+    border: 1px solid transparent;
+    color: rgb(0, 0,0) ;
+    font-size: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    cursor: pointer;   
+}
+
+#btnara:hover{
+    border: 1px solid #aaa;
+}
+
+
+#btn2{
+    height: 40px;
+    width: 230px;
+    position: relative;
+    top: 70px;
+    right: 510px;
+    border: 1px solid transparent;
+    color: rgb(0, 0,0) ;
+    font-size: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#btn2:hover{
+    border: 1px solid #aaa;
+}
+
+h4{
+    color: black;
+    font-size: 15px;
+    line-height: 10px;
+    font-weight: 200;
+    padding-left: 29px;
+}
+
+a{
+    color: #5f6368;
+    display: inline-block;
+    padding: 12px 11px;
+    font: 14px;
+    text-decoration: none;
+    padding-left: 29px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.footer{
+    background-color: rgba(220, 220, 220, 0.477);
+    width: 1495px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    bottom: 2px;
+}
+
+.ab{
+    border-top: 1px solid #ddd;
+}
+
+.ss2{
+    position: relative;
+    padding-left: 1200px;
+    bottom: 40px;
+}
+
+
+
